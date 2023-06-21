@@ -114,8 +114,6 @@ def maina():
         print( '')
         print( '     Agar Ap Na Subscription Kar Le Ha To')
 raw_input('    Termux Sa Exit Kar Ka Phir Sa Cammonds Lagio ')
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100070764496580')
-
 
 def main_system():
     
